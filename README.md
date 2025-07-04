@@ -2,7 +2,9 @@
 
 Ein leichtgewichtiges Aufgabenverwaltungs-Tool auf Basis von Spring Boot und Spring Shell.  
 A lightweight task manager built using Spring Boot and Spring Shell.
+
 ---
+
 A lightweight task manager built using Spring Boot and Spring Shell.  
 Ein leichtgewichtiges Aufgabenverwaltungs-Tool auf Basis von Spring Boot und Spring Shell.
 
@@ -12,7 +14,9 @@ Ein leichtgewichtiges Aufgabenverwaltungs-Tool auf Basis von Spring Boot und Spr
 - Umschaltbar zwischen In-Memory- und Datei-basiertem TaskService
 - Persistente Speicherung in `tasks.json` (bei FileTaskService)
 - Auswahl des aktiven TaskService zur Laufzeit über die Shell
+
 ---
+
 - Add, list, update, and delete tasks
 - Switch between in-memory and file-based TaskService
 - Persistent storage in `tasks.json` (when using FileTaskService)
