@@ -42,3 +42,34 @@ update <id> "New description"           # Update an existing task
 delete <id>                             # Delete a task
 switch-service file|memory              # Switch TaskService
 get-active-service                      # Show currently active TaskService
+```
+
+### Verwendete Spring-Technologien / Used Spring Technologies
+
+- **Spring Core Container**  
+  Verwaltung des Bean-Lebenszyklus, Container für Spring-Managed Beans  
+- **Design und Modularisierung von Anwendungen**  
+  Klare Trennung der Komponenten durch Schnittstellen und Implementierungen  
+- **Classpath-Scanning und automatische Bean-Registrierung**  
+  Spring erkennt automatisch Komponenten und verwaltet sie  
+- **Inversion of Control (IoC) und Dependency Injection (DI)**  
+  Entkopplung der Komponenten durch automatische Abhängigkeitsverwaltung  
+- **Spring Shell**  
+  Interaktive Kommandozeilen-Anwendung für einfache Bedienung  
+- **Konfigurationsklassen und Fabrikmethoden**  
+  Dynamische Bean-Erzeugung und flexible Konfiguration der Services zur Laufzeit
+
+---
+
+- **Spring Core Container**  
+  Manages the lifecycle of beans, container for Spring-managed beans
+- **Application design and modularization**  
+  Clear separation of components via interfaces and implementations
+- **Classpath scanning and automatic bean registration**  
+  Spring automatically detects and manages components
+- **Inversion of Control (IoC) and Dependency Injection (DI)**  
+  Decoupling components by automatic dependency management
+- **Spring Shell**  
+  Interactive command-line interface for easy usage
+- **Configuration classes and factory methods**  
+  Dynamic bean creation and flexible runtime configuration of services
