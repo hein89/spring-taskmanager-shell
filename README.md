@@ -1,5 +1,7 @@
 # Spring TaskManager (Spring Shell)
 
+### Beschreibung / Description
+
 Ein leichtgewichtiges Aufgabenverwaltungs-Tool auf Basis von Spring Boot und Spring Shell.  
 A lightweight task manager built using Spring Boot and Spring Shell.
 
@@ -8,7 +10,7 @@ A lightweight task manager built using Spring Boot and Spring Shell.
 A lightweight task manager built using Spring Boot and Spring Shell.  
 Ein leichtgewichtiges Aufgabenverwaltungs-Tool auf Basis von Spring Boot und Spring Shell.
 
-### ✨ Funktionen / Features
+### Funktionen / Features
 
 - Aufgaben hinzufügen, anzeigen, bearbeiten und löschen
 - Umschaltbar zwischen In-Memory- und Datei-basiertem TaskService
@@ -22,7 +24,7 @@ Ein leichtgewichtiges Aufgabenverwaltungs-Tool auf Basis von Spring Boot und Spr
 - Persistent storage in `tasks.json` (when using FileTaskService)
 - Change the active TaskService at runtime via the shell
 
-### 🧪 Beispielbefehle / Example Commands
+### Beispielbefehle / Example Commands
 
 ```shell
 add "Einkaufen gehen"                   # Neue Aufgabe hinzufügen
